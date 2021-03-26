@@ -1,0 +1,2 @@
+lark-parser
+matrix-nio[e2e]
